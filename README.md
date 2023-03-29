@@ -1,2 +1,2 @@
-# learn-crypto
- An in-depth walkthrough for understanding crypto.
+# Guide to Crypto and Blockchains
+>A routinely updated set of documentation for anyone to start learning about crypto.
